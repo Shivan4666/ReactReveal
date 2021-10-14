@@ -1,0 +1,64 @@
+.doggiiee {
+  width: 300px;
+  padding-right: 50px;
+}
+.body {
+  background-color: wheat;
+  padding-bottom: 10px;
+}
+
+.dogybody {
+  display: flex;
+  justify-content: center;
+  padding-right: 50px;
+  margin-left: 88px;
+}
+.dogy2 {
+  height: 199px;
+}
+.dogy3 {
+  height: 199px;
+}
+.catbody {
+  display: flex;
+  justify-content: center;
+  margin-left: 33px;
+  padding-bottom: 10px;
+}
+.catss {
+  width: 300px;
+  padding-right: 50px;
+}
+.body2 {
+  background-color: thistle;
+  padding-bottom: 14px;
+}
+.cat3 {
+  height: 361px;
+}
+.body3 {
+  background-color: #9ce39c;
+  padding-bottom: 14px;
+}
+.pandabody {
+  display: flex;
+  justify-content: center;
+  margin-left: 33px;
+}
+.pandass {
+  width: 300px;
+  padding-right: 50px;
+}
+.body4 {
+  background-color: #9cdae3;
+  padding-bottom: 14px;
+}
+.lionbody {
+  display: flex;
+  justify-content: center;
+  margin-left: 33px;
+}
+.lions {
+  width: 300px;
+  padding-right: 50px;
+}
